@@ -1,0 +1,9 @@
+# file format
+
+timestamp camera_position camera_orientation(quaternion)
+	observed_plane_1 (normal d landmark_id)
+	observed_plane_2
+	...
+
+plane landmarks in the map
+plane_landmark_1 (id normal d)

@@ -1,0 +1,21 @@
+header: 
+  seq: 10420
+  stamp: 
+    secs: 1511615936
+    nsecs: 173667499
+  frame_id: kinect2_rgb_optical_frame
+height: 540
+width: 960
+distortion_model: plumb_bob
+D: [0.0, 0.0, 0.0, 0.0, 0.0]
+K: [540.68603515625, 0.0, 479.75, 0.0, 540.68603515625, 269.75, 0.0, 0.0, 1.0]
+R: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+P: [540.68603515625, 0.0, 479.75, 0.0, 0.0, 540.68603515625, 269.75, 0.0, 0.0, 0.0, 1.0, 0.0]
+binning_x: 0
+binning_y: 0
+roi: 
+  x_offset: 0
+  y_offset: 0
+  height: 0
+  width: 0
+  do_rectify: False
